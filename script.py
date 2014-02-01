@@ -14,3 +14,5 @@ Do the hokey-pokey
 
 Make small headache
 
+Changes after "add command"
+
