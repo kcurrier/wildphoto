@@ -4,9 +4,11 @@ Read data file
 
 Run analysis
 
-Make table
+Make many tables
 
 Make header bold
 
-Make small figure, red line
+Make large figure, red line
+
+Do the hokey-pokey
 
